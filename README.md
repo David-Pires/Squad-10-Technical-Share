@@ -17,6 +17,9 @@ Tirar dúvidas (enquete, sessão de perguntas e respostas?) ,
 Criar networking (conectar, adicionar,
 
 
+> **Regras/Orientações**
+
+
 •	Deverá ser uma aplicação web responsiva; (mobile etc)
 
 •	Deverá ser entregue no mínimo 3 telas do projeto, sendo protótipo e desenvolvimento; ( sprints ? ) 
