@@ -29,3 +29,5 @@ Criar networking (conectar, adicionar,
 •	Seja criativo! Pense fora da caixinha, inove! Nós demos o problema, e você, como consultor, deverá trazer a melhor solução ;) (Criativo, mas simples)
 
 •	Mas lembre-se: a entrega é um MVP, um mínimo produto viável, ou seja, faça aquilo que entregará valor ao cliente e usuário final!(qualidade é relativa, valor é funcionalidade e usabilidade)
+
+settled new repositorio 
